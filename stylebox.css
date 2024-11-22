@@ -1,0 +1,13 @@
+ .box{
+
+  background-color: rgb(248, 244, 244);
+  border-color: rgb(3, 3, 3);
+  text-align: left;
+  border-radius: 15px;
+  border-width: 1px;
+  box-shadow: 0px 5px 10px 1px rgba(0,0,0,0.05);
+ }
+
+.box::placeholder{
+  color: grey;
+}
